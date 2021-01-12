@@ -1,4 +1,5 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System;
 using System.IO;
 
 namespace PrincessBrideTrivia.Tests
@@ -6,6 +7,33 @@ namespace PrincessBrideTrivia.Tests
     [TestClass]
     public class ProgramTests
     {
+        Question _Question;
+
+
+        public Question Question
+        {
+            get => _Question;
+            set => _Question = value ?? 
+                    throw new ArgumentNullException(nameof(value)); 
+        }
+
+
+
+        [TestInitialize]
+        public void Setup()
+        {
+            Console.WriteLine("in Setup");
+            Question = new Question();
+            
+        }
+
+        public void CreateQuestion()
+        {
+            _ = new Question();
+        }
+
+
+      
         [TestMethod]
         public void LoadQuestions_RetrievesQuestionsFromFile()
         {
@@ -33,11 +61,11 @@ namespace PrincessBrideTrivia.Tests
         public void DisplayResult_ReturnsTrueIfCorrect(string userGuess, bool expectedResult)
         {
             // Arrange
-            Question question = new Question();
-            question.CorrectAnswerIndex = "1";
+        
+           Question.CorrectAnswerIndex = "1";
 
             // Act
-            bool displayResult = Program.DisplayResult(userGuess, question);
+            bool displayResult = Program.DisplayResult(userGuess, Question);
 
             // Assert
             Assert.AreEqual(expectedResult, displayResult);
@@ -63,8 +91,9 @@ namespace PrincessBrideTrivia.Tests
         public void GetPercentCorrect_ReturnsExpectedPercentage(int numberOfCorrectGuesses, 
             int numberOfQuestions, string expectedString)
         {
+             
             // Arrange
-
+                
             // Act
             string percentage = Program.GetPercentCorrect(numberOfCorrectGuesses, numberOfQuestions);
 
