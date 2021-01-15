@@ -1,0 +1,17 @@
+C:\Users\markc\Downloads\EWU-CSCD371-2021-Winter-Assignment1\EWU-CSCD371-2021-Winter-Assignment1\PrincessBrideTrivia\PrincessBrideTrivia\obj\Debug\net5.0\PrincessBrideTrivia.csprojAssemblyReference.cache
+C:\Users\markc\Downloads\EWU-CSCD371-2021-Winter-Assignment1\EWU-CSCD371-2021-Winter-Assignment1\PrincessBrideTrivia\PrincessBrideTrivia\obj\Debug\net5.0\PrincessBrideTrivia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\markc\Downloads\EWU-CSCD371-2021-Winter-Assignment1\EWU-CSCD371-2021-Winter-Assignment1\PrincessBrideTrivia\PrincessBrideTrivia\obj\Debug\net5.0\PrincessBrideTrivia.AssemblyInfoInputs.cache
+C:\Users\markc\Downloads\EWU-CSCD371-2021-Winter-Assignment1\EWU-CSCD371-2021-Winter-Assignment1\PrincessBrideTrivia\PrincessBrideTrivia\obj\Debug\net5.0\PrincessBrideTrivia.AssemblyInfo.cs
+C:\Users\markc\Downloads\EWU-CSCD371-2021-Winter-Assignment1\EWU-CSCD371-2021-Winter-Assignment1\PrincessBrideTrivia\PrincessBrideTrivia\obj\Debug\net5.0\PrincessBrideTrivia.csproj.CoreCompileInputs.cache
+C:\Users\markc\Downloads\EWU-CSCD371-2021-Winter-Assignment1\EWU-CSCD371-2021-Winter-Assignment1\PrincessBrideTrivia\PrincessBrideTrivia\bin\Debug\net5.0\Trivia.txt
+C:\Users\markc\Downloads\EWU-CSCD371-2021-Winter-Assignment1\EWU-CSCD371-2021-Winter-Assignment1\PrincessBrideTrivia\PrincessBrideTrivia\bin\Debug\net5.0\PrincessBrideTrivia.exe
+C:\Users\markc\Downloads\EWU-CSCD371-2021-Winter-Assignment1\EWU-CSCD371-2021-Winter-Assignment1\PrincessBrideTrivia\PrincessBrideTrivia\bin\Debug\net5.0\PrincessBrideTrivia.deps.json
+C:\Users\markc\Downloads\EWU-CSCD371-2021-Winter-Assignment1\EWU-CSCD371-2021-Winter-Assignment1\PrincessBrideTrivia\PrincessBrideTrivia\bin\Debug\net5.0\PrincessBrideTrivia.runtimeconfig.json
+C:\Users\markc\Downloads\EWU-CSCD371-2021-Winter-Assignment1\EWU-CSCD371-2021-Winter-Assignment1\PrincessBrideTrivia\PrincessBrideTrivia\bin\Debug\net5.0\PrincessBrideTrivia.runtimeconfig.dev.json
+C:\Users\markc\Downloads\EWU-CSCD371-2021-Winter-Assignment1\EWU-CSCD371-2021-Winter-Assignment1\PrincessBrideTrivia\PrincessBrideTrivia\bin\Debug\net5.0\PrincessBrideTrivia.dll
+C:\Users\markc\Downloads\EWU-CSCD371-2021-Winter-Assignment1\EWU-CSCD371-2021-Winter-Assignment1\PrincessBrideTrivia\PrincessBrideTrivia\bin\Debug\net5.0\ref\PrincessBrideTrivia.dll
+C:\Users\markc\Downloads\EWU-CSCD371-2021-Winter-Assignment1\EWU-CSCD371-2021-Winter-Assignment1\PrincessBrideTrivia\PrincessBrideTrivia\bin\Debug\net5.0\PrincessBrideTrivia.pdb
+C:\Users\markc\Downloads\EWU-CSCD371-2021-Winter-Assignment1\EWU-CSCD371-2021-Winter-Assignment1\PrincessBrideTrivia\PrincessBrideTrivia\obj\Debug\net5.0\PrincessBrideTrivia.dll
+C:\Users\markc\Downloads\EWU-CSCD371-2021-Winter-Assignment1\EWU-CSCD371-2021-Winter-Assignment1\PrincessBrideTrivia\PrincessBrideTrivia\obj\Debug\net5.0\ref\PrincessBrideTrivia.dll
+C:\Users\markc\Downloads\EWU-CSCD371-2021-Winter-Assignment1\EWU-CSCD371-2021-Winter-Assignment1\PrincessBrideTrivia\PrincessBrideTrivia\obj\Debug\net5.0\PrincessBrideTrivia.pdb
+C:\Users\markc\Downloads\EWU-CSCD371-2021-Winter-Assignment1\EWU-CSCD371-2021-Winter-Assignment1\PrincessBrideTrivia\PrincessBrideTrivia\obj\Debug\net5.0\PrincessBrideTrivia.genruntimeconfig.cache
