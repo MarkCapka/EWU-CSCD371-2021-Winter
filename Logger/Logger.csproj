@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+
+	<!--Ensure you turn on Warnings as Errors (TreatWarningsAsErrors) ✔
+	Ensure that you turn on code analysis (EnableNETAnalyzers) ✔
+	Ensure that you turn on CodeAnalysisTreatWarningsAsErrors ✔
+	Set LangVersion to 9.0 ✔
+	Turn on Nullability (Nullable) ✔-->
+
+
+
+
+	<PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+	  <LangVersion>9.0</LangVersion>
+	  <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+	  <EnableNETAnalyzers>true</EnableNETAnalyzers>
+	  <CodeAnalysisTreatWarningsAsErrors>true</CodeAnalysisTreatWarningsAsErrors>
+	  <Nullable>enable</Nullable>
+	  
+  </PropertyGroup>
+
+</Project>
